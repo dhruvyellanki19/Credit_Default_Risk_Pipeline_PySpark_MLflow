@@ -7,3 +7,6 @@ data/raw/
 data/processed/
 data/delta/
 models/
+
+gitignore
+gitignore.pub
